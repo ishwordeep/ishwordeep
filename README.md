@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishwor Shrestha
-- 👀 I’m LaravelDeveloper
+- 👀 I’m Laravel Developer
 
 <!---
 ishwordeep/ishwordeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
